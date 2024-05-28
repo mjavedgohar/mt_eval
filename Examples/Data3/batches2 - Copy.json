@@ -1,0 +1,234 @@
+[
+  {
+    "items": [
+      {
+        "_block": -1,
+        "_item": 0,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cnn.304489",
+        "targetURL": "cnn.304489",
+        "itemID": 1,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::385.387.388.389.394",
+        "sourceText": "Kavanaugh testified before Congress on Thursday, forcefully and emotionally denying an allegation from Christine Blasey Ford that he sexually assaulted her decades ago when they were teenagers.\nThe President said on Saturday that the \"American people saw the brilliant and quality and courage\" of Kavanaugh that day.\n\"A vote to confirm Judge Kavanaugh is a vote to confirm one of the most accomplished legal minds of our time, a jurist with a sterling record of public service,\" he told the crowd of West Virginia supporters.\nThe President obliquely referred to Kavanaugh's nomination while talking about the importance of Republican turnout in the midterm elections.\nThe first key procedural vote on the Senate floor on Kavanaugh's nomination is expected to take place no later than Friday, a senior GOP leadership aide has told CNN.",
+        "targetID": "newstest2019-ende.tsv::3.5.6.7.12",
+        "targetText": "Kavanaugh sagte am Donnerstag vor dem Kongress aus und bestritt emotional und mit Nachdruck einen Vorwurf von Christine Blasey Ford, dass er sie vor Jahrzehnten sexuell bel\u00e4stigt habe, als sie Jugendliche waren.\nDer Pr\u00e4sident sagte am Samstag, dass \u201edas amerikanische Volk an diesem Tag Zeuge der Brillanz und der Qualit\u00e4t und des Mutes\u201c von Kavanaugh wurde.\n\"Eine Abstimmung, um Richter Kavanaugh zu best\u00e4tigen, ist eine Abstimmung, um einen der am besten erbrachten juristischen K\u00f6pfe unserer Zeit zu best\u00e4tigen, ein Jurist mit einer sterlingalen Aufzeichnung des \u00f6ffentlichen Dienstes\", sagte er der Masse der Fans von West Virginia.\nDer Pr\u00e4sident bezog sich indirekt auf die Nominierung von Kavanaugh, w\u00e4hrend er \u00fcber die Bedeutung der republikanischen Wahlbeteiligung bei den Zwischenwahlen sprach.\nDie erste wichtige Abstimmung im Senat \u00fcber die Nominierung von Kavanaugh wird voraussichtlich sp\u00e4testens am Freitag stattfinden, ein hochrangiger GOP-F\u00fchrer hat CNN gesagt."
+      },
+      {
+        "_block": -1,
+        "_item": 1,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218909",
+        "targetURL": "reuters.218909",
+        "itemID": 2,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1690.1691.1693.1694.1698",
+        "sourceText": "Police in Baton Rouge, La., announced Saturday that a suspect has been arrested in the shooting death of LSU basketball player Wayde Sims on Friday.\nThe Baton Rouge Police Department announced the arrest of Dyteon Simpson, 20, at an 11 a.m. ET news conference.\nSims, 20, was shot and killed near Southern University's campus early Friday.\n\"Wayde Sims suffered a gunshot wound to the head and ultimately died as a result,\" police chief Murphy J. Paul told the media Saturday, per 247sports.\nA 6-foot-6 junior who grew up in Baton Rouge, Sims played in 32 games with 10 starts last season and averaged 17.4 minutes, 5.6 points and 2.9 rebounds per game.",
+        "targetID": "newstest2019-ende.tsv::1.2.4.5.9",
+        "targetText": "Die Polizei in Baton Rouge, La, gab am Samstag bekannt, dass am Freitag ein Verd\u00e4chtiger bez\u00fcglich des Todes des LSU-Basketballers Wayde Sims festgenommen wurde.\nDie Baton Rouge Polizeibeh\u00f6rde gab die Festnahme von Dyteon Simpson (20) um 11 Uhr morgens bekannt. ET-Pressekonferenz.\nSims, 20, wurde am Freitag Morgen in der N\u00e4he des Campus der Southern University erschossen.\n\"Wayde Sims erlitt eine Schusswunde am Kopf und starb an den Folgen\", sagte Polizeichef Murphy J. Paul am Samstag \u00fcber 247 Sport den Medien.\nEin 2 m gro\u00dfer Elftkl\u00e4ssler, der in Baton Rouge aufgewachsen ist, spielte in 32 Spielen mit 10 Starts in der letzten Saison und durchschnittlich 17,4 Minuten, 5,6 Punkten und 2,9 Rebounds pro Spiel."
+      },
+      {
+        "_block": -1,
+        "_item": 2,
+        "documentDomain": "newstest2019",
+        "sourceURL": "newsweek.51318",
+        "targetURL": "newsweek.51318",
+        "itemID": 3,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::974.975.981.982.986",
+        "sourceText": "In order to receive a free ticket for the event (unless you were willing to pay for a VIP ticket), concertgoers had to complete a series of tasks, or \"actions\" such volunteering, emailing a world leader, making a phone call or any other meaningful ways to help raise awareness of their goal of ending poverty.\nBut just how successful has Global Citizen been with 12 years left to achieve its goal?\nSome of the key commitments include The Power of Nutrition, a U.K. based partnership of investors and implementers committed to \"helping children grow to their full potential,\" promising to provide Rwanda with $35 million to help end malnutrition in the county after receiving more than 4,700 tweets from Global Citizens.\n\"With support from the UK government, donors, national governments, and Global Citizens just like you, we can make the social injustice of undernutrition a footnote in history,\" The Power of Nutrition ambassador Tracey Ullman told the crowd during a live concert in London in April 2018.\nBut, like the great civil rights and anti-apartheid movements before us, we will succeed, because we are more powerful together.",
+        "targetID": "newstest2019-ende.tsv::4.5.11.12.16",
+        "targetText": "Um eine kostenlose Eintrittskarte f\u00fcr die Veranstaltung zu erhalten, hatten die Konzertbesucher eine ganze Reihe von Aufgaben oder \"Aktionen\", wie eine Freiwilligenarbeit, eine E-Mail an einen F\u00fchrer in der Welt, ein Telefonat oder eine andere andere sinnvolle M\u00f6glichkeiten, das Ziel der Armutsbek\u00e4mpfung zu erh\u00f6hen und das Bewusstsein daf\u00fcr zu sch\u00e4rfen.\nAber wie erfolgreich ist Global Citizen gewesen mit 12 verbliebenen Jahren um sein Ziel zu erreichen?\nZu den wichtigsten Zusagen geh\u00f6rt The Power of Nutrition, eine in Gro\u00dfbritannien ans\u00e4ssige Partnerschaft von Investoren und ausf\u00fchrenden Organisationen, die sich dazu verpflichtet hat, \u201eKindern dazu zu verhelfen, dass sie ihr volles Potenzial entwickeln k\u00f6nnen\u201c. Die Organisation hat versprochen, Ruanda mit 35 Millionen Dollar dabei zu unterst\u00fctzen, die Unterern\u00e4hrung im Land zu beenden, nachdem von Global Citizens \u00fcber 4.700 Tweets eingegangen sind.\n\u201eMit Unterst\u00fctzung durch die britische Regierung, Spender, andere Staatsregierungen und Global Citizens wie Ihnen k\u00f6nnen wir bewirken, dass die soziale Ungerechtigkeit der Unterern\u00e4hrung eines Tages Geschichte ist\u201c, verk\u00fcndete The Power of Nutrition-Botschafterin Tracey Ullman der Menschenmenge in einem Live-Konzert in London im April 2018.\nWie die gro\u00dfen B\u00fcrgerrechts und die Anti-Apartheid-Bewegungen vor uns, werden wir Erfolg haben, denn wir sind m\u00e4chtiger zusammen."
+      },
+      {
+        "_block": -1,
+        "_item": 3,
+        "documentDomain": "newstest2019",
+        "sourceURL": "telegraph.405413",
+        "targetURL": "telegraph.405413",
+        "itemID": 4,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1875.1878.1879.1881.1882",
+        "sourceText": "Brett Kavanaugh's future hangs in the balance as FBI begins investigation\nTheir reluctance is all due to timing.\nThe midterm elections are only five weeks away, on November 6 - if, as expected, the Republicans do badly, then they will be severely weakened in their attempts to get the man they want elected to the highest court in the land.\nWhat happens after the FBI produces its report?\nThere will be a vote in the Senate, where 51 Republicans and 49 Democrats currently sit.",
+        "targetID": "newstest2019-ende.tsv::0.3.4.6.7",
+        "targetText": "Die FBI-Ermittlungen haben begonnen, und Brett Kavanaughs Zukunft steht auf dem Spiel.\nIhre Zur\u00fcckhaltung ist schlichtweg auf das Timing zur\u00fcckzuf\u00fchren.\nBis zu den Zwischenwahlen sind es nur f\u00fcnf Wochen, am 6. November ist es soweit \u2013 wenn die Republikaner wie erwartet schlecht abschneiden, dann werden sie bei dem Versuch stark geschw\u00e4cht werden, den Mann, den ins h\u00f6chste Gericht des Landes gew\u00e4hlt haben wollen, voranzubringen.\nWas geschieht nach der Ver\u00f6ffentlichung des FBI-Berichts?\nDer Senat, in dem derzeit 51 Republikaner und 49 Demokraten sitzen, wird abstimmen."
+      },
+      {
+        "_block": -1,
+        "_item": 4,
+        "documentDomain": "newstest2019",
+        "sourceURL": "bbc.381701",
+        "targetURL": "bbc.381701",
+        "itemID": 5,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::859.860.861.862.863",
+        "sourceText": "Attempted murder charge over Belfast restaurant stabbing\nA 45-year-old man has been charged with attempted murder after a man was stabbed in a restaurant in east Belfast on Friday.\nThe incident happened in Ballyhackamore, police said.\nThe defendant is expected to appear before Belfast Magistrates' Court on Monday.\nThe charges will be reviewed by the Public Prosecution Service.",
+        "targetID": "newstest2019-ende.tsv::0.1.2.3.4",
+        "targetText": "Anklage wegen versuchten Mordes nach Messerstecherei in Belfaster Restaurant.\nEin 45-j\u00e4hriger Mann wurde wegen versuchten Mordes angeklagt, nachdem ein Mann am Freitag in einem Restaurant im Osten von Belfast erstochen wurde.\nDer Vorfall ereignete sich in Ballyhackamore, gab die Polizei bekannt.\nDer Angeklagte wird voraussichtlich am Montag beim Amtsgericht von Belfast erscheinen.\nDie Anklagepunkte werden von der Staatsanwaltschaft \u00fcberpr\u00fcft."
+      },
+      {
+        "_block": -1,
+        "_item": 5,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cnbc.com.6784",
+        "targetURL": "cnbc.com.6784",
+        "itemID": 6,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1502.1504.1505.1506.1507",
+        "sourceText": "It's not surprising that Pennsylvania's 17th is seeing a flood of cash, thanks to a realignment of a congressional districts that landed two incumbents in a race for the same seat.\nLamb is running against another incumbent, Republican Keith Rothfus, who currently represents the old Pennsylvania 12th district, which overlaps heavily with the new 17th.\nThe maps were redrawn after the Pennsylvania Supreme Court ruled in January that the old districts were unconstitutionally gerrymandered in Republicans' favor.\nThe race in the new 17th has touched off a campaign finance slugfest between the major party finance arms, the Democratic Campaign Congressional Committee (DCCC) and the National Republican Campaign Committee (NRCC).\nLamb became a familiar name in Pennsylvania after a narrow win in a widely watched in March special election for Pennsylvania's 18th Congressional District.",
+        "targetID": "newstest2019-ende.tsv::1.3.4.5.6",
+        "targetText": "Es ist nicht verwunderlich, dass Pennsylvanias 17. eine Flut von Bargeld erlebt, dank einer Neuausrichtung eines Kongressbezirks, den zwei Amtsinhaber in einem Rennen um denselben Sitz erreichten.\nLamb tritt gegen einen anderen Amtsinhaber, den Republikaner Keith Rothfus, an, der aktuell den alten 12. Bezirk von Pennsylvania repr\u00e4sentiert, der sich deutlich mit dem neuen 17. \u00fcberschneidet.\nDie Karten wurden neu gemischt, nachdem der Oberste Gerichtshof von Pennsylvania im Januar entschieden hatte, dass die alten Bezirke im Sinne der Republikaner verfassungswidrig manipuliert wurden.\nDas Rennen im neuen 17. hat einen Kampagnenfinanzierung Schlagabtausch zwischen den gro\u00dfen Parteienfinanzierungsgruppen, dem Democratic Campaign Congressional Committee (DCCC) und dem National Republican Campaign Committee (NRCC) ausgel\u00f6st.\nLamb wurde in Pennsylvania ein bekannter Name, nachdem er im M\u00e4rz in Pennsylvania Sonderwahlen f\u00fcr den 18. Kongressbezirk in Pennsylvania mit gro\u00dfem Sieg gewonnen hatte."
+      },
+      {
+        "_block": -1,
+        "_item": 6,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218923",
+        "targetURL": "reuters.218923",
+        "itemID": 7,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::730.732.738.739.741",
+        "sourceText": "Europe will take a healthy advantage into the final day of the Ryder Cup after emerging from Saturday's fourballs and foursomes matches with a 10-6 lead over the United States.\nThomas Bjorn's European side, bidding to retain the trophy they lost at Hazeltine two years ago, dominated a misfiring American side in the morning fourballs, taking the series 3-1.\nJustin Rose, rested for the morning fourballs, returned to partner Henrik Stenson in the foursomes to a 2&1 defeat of Dustin Johnson and Brooks Koepka - ranked one and three in the world.\nEurope did not have it al their own way though on a pleasant, breezy day south west of Paris.\nThey earned a gritty 2&1 win over Spain's Jon Rahm and Ian Poulter in the fourballs and returned later to beat Poulter and Rory McIlroy 4&3 in the foursomes having lost the opening two holes.",
+        "targetID": "newstest2019-ende.tsv::1.3.9.10.12",
+        "targetText": "Europa wird einen soliden Vorteil am letzten Tag des Ryder Cup nutzen, nachdem es aus den Vierer- und Vierer-Spielen am Samstag mit einer 10-6 F\u00fchrung \u00fcber die Vereinigten Staaten hervorgegangen ist.\nDie europ\u00e4ische Mannschaft von Thomas Bjorn, die um den Erhalt der Troph\u00e4e antrat, die sie vor zwei Jahren in Hazeltine verloren hatte, dominierte beim morgentlichen Fourballs eine mit Aussetzern k\u00e4mpfende amerikanische Mannschaft, und gewann die Serie mit 3-1.\nJustin Rose, ausgeruht f\u00fcr die morgendlichen Fourballs, kehrte zu seinem Partner Henrik Stenson in den Foursomes zur\u00fcck und schlug in einer 2 & 1-Niederlage Dustin Johnson und Brooks Koepka \u2013 Platz eins und drei in der Welt.\nAn einem angenehmen, luftigen Tag s\u00fcdwestlich von Paris hatte Europa es jedoch nicht in seiner eigenen Art und Weise.\nSie gewannen einen mutigen 2:1-Sieg gegen die Spanier Jon Rahm und Ian Poulter im Viererpack und kehrten sp\u00e4ter zur\u00fcck, um Poulter und Rory McIlroy 4:3 im Viererpack zu schlagen, nachdem sie die ersten beiden L\u00f6cher verloren hatten."
+      }
+    ],
+    "task": {
+      "batchNo": 1,
+      "batchSize": 7,
+      "randomSeed": 1111,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "deu"
+    }
+  },
+  {
+    "items": [
+      {
+        "_block": -1,
+        "_item": 0,
+        "documentDomain": "newstest2019",
+        "sourceURL": "euronews-en.153800",
+        "targetURL": "euronews-en.153800",
+        "itemID": 1,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::331.332.335.336.337",
+        "sourceText": "It's the last day of President Erdogan's controversial visit to Germany - which is aimed at repairing relations beteen the NATO allies.\nThey've fallen out over issues including human rights, press freedom and Turkey's accession to the EU.\nPolice cited security reasons to block a 25,000-strong crowd from gathering in front of the mosque, but plenty of supporters turned out nearby to see their president.\nHundreds of anti-Erdogan protesters - many of them Kurdish - also made their voices heard, condemning both Erdogan's policies and the German government's decision to welcome him to the country.\nThe dueling protests reflect the divisiveness of a visitor hailed as a hero by some German Turks and reviled as an autocrat by others.",
+        "targetID": "newstest2019-ende.tsv::2.3.6.7.8",
+        "targetText": "Es ist der letzte Tag des umstrittenen Besuches von Pr\u00e4sident Erdogan in Deutschland - Ziel ist die Wiederherstellung der Beziehungen zwischen den NATO-Verb\u00fcndeten.\nUnstimmigkeiten gab es bei Themen wie Menschenrechte, Pressefreiheit und den EU-Beitritt der T\u00fcrkei.\nDie Polizei gab Sicherheitsgr\u00fcnde daf\u00fcr an, warum sie eine Menschenmenge von 25.000 davon abhielt, sich vor der Moschee zu versammeln, aber viele Anh\u00e4nger kamen in die N\u00e4he, um ihren Pr\u00e4sidenten zu sehen.\nHunderte von Anti-Erdogan-Demonstranten \u2013 viele von ihnen Kurden \u2013 machten sich ebenfalls Geh\u00f6r und verurteilten sowohl die Politik Erdogans als auch die Entscheidung der deutschen Regierung, ihn im Land willkommen zu hei\u00dfen.\nDie Proteste spiegeln die Spaltung eines Besuchers wider, der von einigen deutschen T\u00fcrken als Held gefeiert und von anderen als Autokrat beschimpft wird."
+      },
+      {
+        "_block": -1,
+        "_item": 1,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218861",
+        "targetURL": "reuters.218861",
+        "itemID": 2,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::752.753.756.759.768",
+        "sourceText": "Washington has also resisted calls to relax tough international sanctions on North Korea.\n\"The U.S. insists on the \"denuclearization-first\" and increases the level of pressure by sanctions to achieve their purpose in a coercive manner, and even objecting to the \"declaration of the end of war,\"\" Ri said.\nRi made no mention of plans for a second summit between Kim and Trump that the U.S. leader highlighted at the United Nations earlier in the week.\nThis year at the United Nations, Trump, who last year threatened to \"totally destroy\" North Korea, heaped praise on Kim for his courage in taking steps to disarm, but said much work still had to be done and sanctions must remain in place until North Korea denuclearizes.\nHe said Kim had told him the \"corresponding measures\" he was seeking were security guarantees Trump pledged in Singapore and moves toward normalization of relations with Washington.",
+        "targetID": "newstest2019-ende.tsv::8.9.12.15.24",
+        "targetText": "Washington hat sich auch den Forderungen nach einer Lockerung der harten internationalen Sanktionen gegen Nordkorea widersetzt.\nDie USA bestehen auf \"denuclearization-first\" (zuerst Entnuklearisierung) und erh\u00f6hen den Druck durch Sanktionen, um ihren Zweck auf zwingende Weise zu erreichen, und lehnen sogar die \"Erkl\u00e4rung des Kriegsendes\" ab\", sagte Ri.\nRi erw\u00e4hnte keine Pl\u00e4ne f\u00fcr ein zweites Gipfeltreffen zwischen Kim und Trump, das der US-Pr\u00e4sident Anfang der Woche bei den Vereinten Nationen hervorgehoben hatte.\nDieses Jahr bei den Vereinten Nationen hat Trump, der im vergangenen Jahr gedroht hat, Nordkorea \u201ev\u00f6llig zerst\u00f6ren\u201c zu wollen, Kim f\u00fcr seinen Mut, Schritte zur Entwaffnung zu unternehmen, gelobt, aber er sagte auch, dass noch viel Arbeit getan werden musste, und Sanktionen m\u00fcssen bestehen bleiben, bis Nordkorea die Entnuklearisierung vernichtete.\nEr sagte, Kim habe ihm gesagt, dass die \"entsprechenden Ma\u00dfnahmen\", die er anstrebte, Sicherheitsgarantien waren, die Trump in Singapur zugesagt hatte, und Schritte zur Normalisierung der Beziehungen zu Washington."
+      },
+      {
+        "_block": -1,
+        "_item": 2,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cbsnews.248394",
+        "targetURL": "cbsnews.248394",
+        "itemID": 3,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1902.1904.1908.1909.1912",
+        "sourceText": "Kavanaugh emotionally denied allegations that he had sexually assaulted Dr. Christine Blasey Ford when they were both teenagers.\nHe also explicitly condemned Democrats on the committee, calling the allegations against him a \"grotesque and coordinated character assassination\" organized by liberals angry that Hillary Clinton lost the 2016 presidential election.\n\"I will say this -- if he is not telling the truth to Congress or to the FBI, then he's not fit not only to be on the Supreme Court, but to be on the court he's on right now,\" Pelosi said.\nKavanaugh is currently a judge on the D.C. Circuit Court of Appeals.\n\"It's not time for a hysterical, biased person to go to the court and expect us to say, 'isn't that wonderful,'\" Pelosi said.",
+        "targetID": "newstest2019-ende.tsv::4.6.10.11.14",
+        "targetText": "Kavanaugh dementierte die Behauptungen emotionsgeladen, dass er Dr. sexuell angegriffen habe. Christine Blasey Ford, als sie beide Jugendliche waren.\nEr verurteilte auch explizit die Demokraten im Ausschuss und nannte die Vorw\u00fcrfe gegen ihn eine \u201egroteske und koordinierte Rufmordkampagne\u201c, die von Liberalen organisiert wurde, die w\u00fctend dar\u00fcber sind, dass Clinton die Pr\u00e4sidentschaftswahl 2016 verloren hatte.\n\u201eIch will Folgendes damit sagen: Wenn er weder dem Kongress noch dem FBI die Wahrheit sagt, dann ist er nicht nur f\u00fcr den Dienst am Obersten Gerichtshof ungeeignet, sondern auch f\u00fcr den Dienst an dem Gericht, an dem er zurzeit besch\u00e4ftigt ist\u201c, erkl\u00e4rte Pelosi.\nKavanaugh ist derzeit Bezirksrichter in D.C. Berufungsgericht.\n\u201eEs ist nicht die Zeit, dass eine hysterische, voreingenommene Person zum Gericht geht und von uns erwartet, dass wir sagen: \u201eIst das nicht wunderbar,\u201c sagte Pelosi."
+      },
+      {
+        "_block": -1,
+        "_item": 3,
+        "documentDomain": "newstest2019",
+        "sourceURL": "upi.176275",
+        "targetURL": "upi.176275",
+        "itemID": 4,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1026.1029.1031.1035.1038",
+        "sourceText": "18 states, D.C. support challenge to new asylum policy\nThe full name of the plaintiff in the Grace v. Sessions suit that the American Civil Liberties Union filed in August against the federal policy has not been revealed.\nShe was detained in Texas.\n\"Federal law requires that all asylum claims be adjudicated on the particular facts and circumstances of the claim, and such a bar violates that principle,\" the friend-of-the court brief said.\n\"Asylum is available for those who leave their home country because of persecution or fear on account of race, religion, nationality, or membership in a particular social group or political opinion,\" Sessions said in his June 11 announcement of the policy.",
+        "targetID": "newstest2019-ende.tsv::0.3.5.9.12",
+        "targetText": "18 Staaten D. C. unterst\u00fctzen die Herausforderung einer neuen Asylpolitik\nDer vollst\u00e4ndige Name des Kl\u00e4gers im Rechtsstreit Grace gegen Sessions, der im August von der American Civil Liberties Union gegen das Bundesgesetz eingereicht wurde, ist nicht bekannt.\nSie wurde in Texas verhaftet.\nDer Amicus Curiae besagt, dass laut Bundesrecht alle Asylantr\u00e4ge gem\u00e4\u00df den Gegebenheiten der jeweiligen Klage beurteilt werden m\u00fcssen und ein derartiges Vorgehen gegen dieses Prinzip verst\u00f6\u00dft.\n\u201eAsyl steht denjenigen Personen zu, die ihr Heimatland wegen Verfolgung aufgrund von Rasse, Religion, Nationalit\u00e4t oder Zugeh\u00f6rigkeit zu einer bestimmten sozialen Gruppe oder aufgrund einer politischen Meinung verlassen m\u00fcssen\u201c, sagte Sessions in seiner Erkl\u00e4rung zum Gesetz am 11. Juni."
+      },
+      {
+        "_block": -1,
+        "_item": 4,
+        "documentDomain": "newstest2019",
+        "sourceURL": "dailymail.co.uk.298686",
+        "targetURL": "dailymail.co.uk.298686",
+        "itemID": 5,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::942.945.947.949.950",
+        "sourceText": "Jeremy Corbyn's Labour Party is to consider a radical plan which will see Britons working a four day week - but getting paid for five.\nSources said the idea would 'fit' with the party's economic agenda and plans to tilt the country in favour of workers.\nA senior Labour Party source told The Sunday Times: 'A policy review is expected to be announced before the end of the year.\nThe Labour Party would not be the first to endorse such an idea, with the Green Party pledging a four-day working week during its 2017 general election campaign.\nThe aspiration is currently not being endorsed by the Labour Party as a whole, however.",
+        "targetID": "newstest2019-ende.tsv::1.4.6.8.9",
+        "targetText": "Jeremy Corbyns Labour-Partei pr\u00fcft einen radikalen Plan, bei dem Briten nur vier Tage in der Woche arbeiten, jedoch f\u00fcr f\u00fcnf bezahlt werden.\nQuellen sagten, die Idee w\u00fcrde mit der wirtschaftlichen Agenda der Partei \"passen\" und plant, das Land zugunsten der Arbeitnehmer zu kippen.\nEine hochrangige Quelle aus der Labour-Partei sagte der Sunday Times: Eine \u00dcberpr\u00fcfung der Politik wird voraussichtlich noch vor Jahresende angek\u00fcndigt.\nDie Labour-Partei w\u00e4re nicht die erste, die eine solche Idee bef\u00fcrwortet, da die Gr\u00fcne Partei w\u00e4hrend ihres Wahlkampfes 2017 eine viert\u00e4gige Arbeitswoche versprach.\nDieser Vorsto\u00df wird derzeit jedoch von der gesamten Labour-Partei nicht unterst\u00fctzt."
+      },
+      {
+        "_block": -1,
+        "_item": 5,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cnbc.com.6772",
+        "targetURL": "cnbc.com.6772",
+        "itemID": 6,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::474.475.479.482.485",
+        "sourceText": "In the 1980s at Carnegie Mellon University he worked on an AI system that beat the highest-ranked American Othello player, and later he was an executive at Microsoft Research and president of Google's China branch.\nLee acknowledged previous U.S. government technology competitions like the Defense Advanced Research Projects Agency's Robotics Challenge and asked when the next one would be, in order to help identify the next visionaries.\nLee said immigration policy changes could also help the U.S. bolster its AI efforts.\nChina's National Natural Science Foundation provides funding to people at academic institutions similar to the way that the National Science Foundation and other government organizations dole out money to U.S. researchers, but the quality of academic work is lower in China, Lee said.\nAs for the NSF, it currently invests more than $100 million per year in AI research.",
+        "targetID": "newstest2019-ende.tsv::7.8.12.15.18",
+        "targetText": "In den 1980er Jahren arbeitete er an der Carnegie Mellon University an einem KI-System, das den h\u00f6chstrangigen amerikanischen Othello-Spieler besiegte. Sp\u00e4ter war er F\u00fchrungskraft bei Microsoft Research und Pr\u00e4sident der chinesischen Niederlassung von Google.\nLee hat die fr\u00fcheren Technologiewettbewerbe der US-Regierung wie die Robotics Challenge der Defense Advanced Research Projects Agency (US-amerikanische Verteidigungsforschungsbeh\u00f6rde) anerkannt und gefragt, wann der n\u00e4chste stattfinden w\u00fcrde, um die n\u00e4chsten Vision\u00e4re zu identifizieren.\nLee sagte, dass eine ver\u00e4nderte Einwanderungspolitik auch den USA dabei helfen k\u00f6nnten ihre KI-Bem\u00fchungen zu verst\u00e4rken.\nChinas National Natural Science Foundation bietet Finanzierung f\u00fcr Menschen in akademischen Einrichtungen \u00e4hnlich der Art, wie die National Science Foundation und andere Regierungsorganisationen Geld an US-Forscher verteilen. Jedoch sei die Qualit\u00e4t der akademischen Arbeit in China geringer, sagte Lee.\nWas die NSF betrifft, investiert sie derzeit mehr als 100 Millionen Dollar pro Jahr in die KI-Forschung."
+      },
+      {
+        "_block": -1,
+        "_item": 6,
+        "documentDomain": "TestDomain",
+        "sourceURL": "TestDocC",
+        "targetURL": "TestDocC",
+        "itemID": 7,
+        "itemType": "REF",
+        "sourceID": "test-ende-srcref.tsv::32.35.37.38.39",
+        "sourceText": "This is a test sentence.\nThis is a test sentence.\nThis is a test sentence.\nThis is a test sentence.\nThis is a test sentence.",
+        "targetID": "test-ende-srcref.tsv::2.5.7.8.9",
+        "targetText": "Das ist ein Testsatz.\nDas ist ein Testsatz.\nDas ist ein Testsatz.\nDas ist ein Testsatz.\nDas ist ein Testsatz."
+      },
+      {
+        "_block": -1,
+        "_item": 7,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218861",
+        "targetURL": "reuters.218861",
+        "itemID": 8,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::750.752.754.761.765",
+        "sourceText": "Ri referred to a joint statement issued by Kim Jong Un and Donald Trump at a first ever summit between a serving U.S. president and a North Korean leader in Singapore on June 12, when Kim pledged to work toward \"denuclearization of the Korean peninsula\" while Trump promised guarantees of North Korea's security.\nWashington has also resisted calls to relax tough international sanctions on North Korea.\n\"The perception that sanctions can bring us on our knees is a pipe dream of the people who are ignorant about us.\nChina and Russia argue that the U.N. Security Council should reward Pyongyang for steps taken.\nPompeo has visited North Korea three times already this year, but his last trip did not go well.",
+        "targetID": "newstest2019-ende.tsv::6.8.10.17.21",
+        "targetText": "Ri verwies auf eine gemeinsame Erkl\u00e4rung von Kim Jong Un und Donald Trump auf einem ersten Gipfeltreffen zwischen einem amtierenden US-Pr\u00e4sidenten und einem nordkoreanischen F\u00fchrer am 12. Juni in Singapur, als Kim sich verpflichtete, auf eine \"Entnuklearisierung der koreanischen Halbinsel\" hinzuarbeiten, w\u00e4hrend Trump Garantien f\u00fcr die Sicherheit Nordkoreas versprach.\nWashington hat sich auch den Forderungen nach einer Lockerung der harten internationalen Sanktionen gegen Nordkorea widersetzt.\n\"Die Wahrnehmung, dass Sanktionen uns in die Knie zwingen k\u00f6nnen, ist ein Wunschtraum der Menschen, die uns gegen\u00fcber ignorant sind.\nChina und Russland argumentieren, dass der UN-Sicherheitsrat Pj\u00f6ngjang f\u00fcr die unternommenen Schritte belohnen sollte.\nPompeo hat Nordkorea in diesem Jahr bereits dreimal besucht, aber seine letzte Reise verlief nicht gut."
+      },
+      {
+        "_block": -1,
+        "_item": 8,
+        "documentDomain": "TestDomain",
+        "sourceURL": "TestDocC",
+        "targetURL": "TestDocC",
+        "itemID": 9,
+        "itemType": "REF",
+        "sourceID": "test-ende-srcref.tsv::30.36.37.40.43",
+        "sourceText": "This is a test sentence.\nThis is a test sentence.\nThis is a test sentence.\nThis is a test sentence.\nThis is a test sentence.",
+        "targetID": "test-ende-srcref.tsv::0.6.7.10.13",
+        "targetText": "Das ist ein Testsatz.\nDas ist ein Testsatz.\nDas ist ein Testsatz.\nDas ist ein Testsatz.\nDas ist ein Testsatz."
+      }
+    ],
+    "task": {
+      "batchNo": 2,
+      "batchSize": 9,
+      "randomSeed": 1111,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "deu"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+beautifulsoup4
+Django
+django-stubs
+lxml
+psycopg2-binary
+tablib
+scipy
+whitenoise[brotli]

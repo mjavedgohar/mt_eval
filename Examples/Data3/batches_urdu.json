@@ -1,0 +1,221 @@
+[
+  {
+    "items": [
+      {
+        "_block": -1,
+        "_item": 0,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cnn.304489",
+        "targetURL": "cnn.304489",
+        "itemID": 1,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::385.387.388.389.394",
+        "sourceText": "The government of India is bearing this burden today.",
+        "targetID": "newstest2019-ende.tsv::3.5.6.7.12",
+        "targetText": "بھارت کی حکومت آج اپنا بوجھ اٹھا رہی ہے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 1,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218909",
+        "targetURL": "reuters.218909",
+        "itemID": 2,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1690.1691.1693.1694.1698",
+        "sourceText": "Mr. Mathur sought DOPT's assistance in formulating rules and regulations for the newly constituted Union Territory of Ladakh.",
+        "targetID": "newstest2019-ende.tsv::1.2.4.5.9",
+        "targetText": "مسٹر ماتھر نے نئے تشکیل دیے گئے لداخ کی علاقائی حکومت کے لیے قوانین اور ضوابط بنانے میں مدد کے لیے ڈی او پی ٹی سے رجوع کیا جو کہ مرکز کے ذریعہ منظم کی گئی تھی۔"
+      },
+      {
+        "_block": -1,
+        "_item": 2,
+        "documentDomain": "newstest2019",
+        "sourceURL": "newsweek.51318",
+        "targetURL": "newsweek.51318",
+        "itemID": 3,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::974.975.981.982.986",
+        "sourceText": "In addition, the esteemed minister also emphasized that to date, not a single allegation of corruption has been made against the Modi government, and Prime Minister Modi has succeeded in providing a transparent and delivery-based administration. Mentioning the condition of the farmers, the Prime Minister said that more than 81% of our farmers are either small or nominal landholders, and because of this, their cost of crop production increases, and due to low yield, they are unable to earn profits.",
+        "targetID": "newstest2019-ende.tsv::4.5.11.12.16",
+        "targetText": "اس کے علاوہ، وزیر نے یہ بھی زور دیا کہ آج تک مودی حکومت کے خلاف ایک بھی بدعنوانی کا الزام نہیں لگایا گیا اور مودی نے شفاف اور ترسیل پر مبنی انتظامیہ فراہم کرنے میں کامیابی حاصل کی ہے۔ کسانوں کی حالت کا حوالہ دیتے ہوئے وزیر اعظم نے کہا کہ ہمارے پاس 85 فیصد سے زیادہ کسان یا تو چھوٹے ہیں یا ناممکن زمینیں رکھتے ہیں اور اس کی وجہ سے ان کی فصلوں کی کاشت پر ان پٹ لاگت میں اضافہ ہوتا ہے اور کم پیداوار کی وجہ سے منافع بھی نہیں کما سکتے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 3,
+        "documentDomain": "newstest2019",
+        "sourceURL": "telegraph.405413",
+        "targetURL": "telegraph.405413",
+        "itemID": 4,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1875.1878.1879.1881.1882",
+        "sourceText": "They emphasized the need to raise awareness about various government initiatives to promote startups in such cities and also stressed the importance of capacity building.",
+        "targetID": "newstest2019-ende.tsv::0.3.4.6.7",
+        "targetText": "اس نے شہروں میں اسٹارٹ اپس کو فروغ دینے کے لئے مختلف حکومتی اقدامات کے بارے میں آگاہی پیدا کرنے اور صلاحیت سازی کی ضرورت پر بھی زور دیا۔"
+      },
+      {
+        "_block": -1,
+        "_item": 4,
+        "documentDomain": "newstest2019",
+        "sourceURL": "bbc.381701",
+        "targetURL": "bbc.381701",
+        "itemID": 5,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::859.860.861.862.863",
+        "sourceText": "In the meeting, the director of the National Institute and the representative of the Indian Sign Language Research and Training Center also participated to empower visually impaired individuals.",
+        "targetID": "newstest2019-ende.tsv::0.1.2.3.4",
+        "targetText": "ڈائریکٹر، نیشنل انسٹی ٹیوٹ فار دی ایمپاورمنٹ آف پرسنز ود ویژول ڈس ایبلٹیز اور انڈین سائن لینگویج ریسرچ اینڈ ٹریننگ سینٹر کے نمائندے نے بھی میٹنگ میں شرکت کی۔"
+      },
+      {
+        "_block": -1,
+        "_item": 5,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cnbc.com.6784",
+        "targetURL": "cnbc.com.6784",
+        "itemID": 6,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1502.1504.1505.1506.1507",
+        "sourceText": "All these accounts have a credit balance.",
+        "targetID": "newstest2019-ende.tsv::1.3.4.5.6",
+        "targetText": "یہ تمام اکاؤنٹس کریڈٹ بیلنس رکھتے ہیں۔"
+      },
+      {
+        "_block": -1,
+        "_item": 6,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218923",
+        "targetURL": "reuters.218923",
+        "itemID": 7,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::730.732.738.739.741",
+        "sourceText": "The spread of the coronavirus disease (COVID-19) significantly increased in the European Union/European Economic Area and the UK from January 1 to March 15, 2020.",
+        "targetID": "newstest2019-ende.tsv::1.3.9.10.12",
+        "targetText": "کورونا وائرس کی بیماری (COVID-19) نے 1 جنوری سے 15 مارچ 2020 کے درمیان یورپی یونین/یورپی اقتصادی علاقہ اور متحدہ سلطنت میں تیزی سے مجموعی طور پر اضافہ کیا۔"
+      }
+    ],
+    "task": {
+      "batchNo": 1,
+      "batchSize": 7,
+      "randomSeed": 1111,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "urd"
+    }
+  },
+  {
+    "items": [
+      {
+        "_block": -1,
+        "_item": 0,
+        "documentDomain": "newstest2019",
+        "sourceURL": "euronews-en.153800",
+        "targetURL": "euronews-en.153800",
+        "itemID": 1,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::331.332.335.336.337",
+        "sourceText": "Similar trends are being observed in the overall spread of coronavirus disease (COVID-19) cases in the European Union/European Economic Area and the United Kingdom, while the global pandemic of COVID-19 is accelerating at different stages based on the country across all countries.",
+        "targetID": "newstest2019-ende.tsv::2.3.6.7.8",
+        "targetText": "کورونا وائرس کی بیماری (COVID-19) کے کیسز میں مجموعی اضافہ یورپی یونین/یورپی اقتصادی علاقہ کے ممالک اور متحدہ سلطنت میں ایک جیسے رجحانات دکھا رہا ہے، جبکہ COVID-19 وبا تمام ممالک میں مختلف مراحل پر تیزی سے بڑھ رہی ہے جو ملک پر منحصر ہے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 1,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218861",
+        "targetURL": "reuters.218861",
+        "itemID": 2,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::752.753.756.759.768",
+        "sourceText": "Based on the experience of Italy, hospitals and intensive care units in several countries should increase their preparedness due to the rapid increase in COVID-19 patients, as they will particularly need critical care.",
+        "targetID": "newstest2019-ende.tsv::8.9.12.15.24",
+        "targetText": "اٹلی کے تجربے کی بنیاد پر، مختلف ممالک کے ہسپتالوں اور شدید نگہداشت کی اکائیوں کو COVID-19 کے مریضوں کی بڑھتی ہوئی تعداد کے لئے تیاری بڑھانی چاہیے جنہیں شدید نگہداشت کی ضرورت ہوگی۔"
+      },
+      {
+        "_block": -1,
+        "_item": 2,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cbsnews.248394",
+        "targetURL": "cbsnews.248394",
+        "itemID": 3,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1902.1904.1908.1909.1912",
+        "sourceText": "On January 9, 2020, the Chinese Center for Disease Control and Prevention reported that the causative agent is the novel coronavirus, which is now referred to as Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2).",
+        "targetID": "newstest2019-ende.tsv::4.6.10.11.14",
+        "targetText": "9 جنوری 2020 کو، چینی سینیٹر برائے مرکز برائے امراض کنٹرول اور پریوینشن نے اطلاع دی کہ مرض کا سبب بننے والا عامل نیا کوروناوائرس ہے جسے اب شدید حاد تنفسی سنڈروم کوروناوائرس 2 (SARS-CoV-2) کے نام سے جانا جاتا ہے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 3,
+        "documentDomain": "newstest2019",
+        "sourceURL": "upi.176275",
+        "targetURL": "upi.176275",
+        "itemID": 4,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::1026.1029.1031.1035.1038",
+        "sourceText": "However, the disease resulting from the infection of SARS-CoV-2 has been named Coronavirus Disease (COVID-19).",
+        "targetID": "newstest2019-ende.tsv::0.3.5.9.12",
+        "targetText": "پھر بھی، SARS-CoV-2 انفیکشن سے ہونے والی بیماری کا نام کورونا وائرس بیماری (COVID-19) رکھا گیا ہے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 4,
+        "documentDomain": "newstest2019",
+        "sourceURL": "dailymail.co.uk.298686",
+        "targetURL": "dailymail.co.uk.298686",
+        "itemID": 5,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::942.945.947.949.950",
+        "sourceText": "Evidence to date suggests that 80% of individuals with COVID-19 experience a mild form of the disease, which is a respiratory tract infection with or without pneumonia, and most of them recover.",
+        "targetID": "newstest2019-ende.tsv::1.4.6.8.9",
+        "targetText": "اب تک کے شواہد یہ ہیں کہ COVID-19 سے متاثرہ 80% افراد میں ہلکی بیماری ہوتی ہے، یعنی سانس کی نالی کا انفیکشن جس میں نمونیا ہو سکتا ہے یا نہیں، اور ان میں سے اکثر صحتیاب ہو جاتے ہیں۔"
+      },
+      {
+        "_block": -1,
+        "_item": 5,
+        "documentDomain": "newstest2019",
+        "sourceURL": "cnbc.com.6772",
+        "targetURL": "cnbc.com.6772",
+        "itemID": 6,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::474.475.479.482.485",
+        "sourceText": "In about 14% of cases, COVID-19 leads to a more severe form of illness, requiring hospitalization, while 6% of cases involve critically ill patients who need intensive care.",
+        "targetID": "newstest2019-ende.tsv::7.8.12.15.18",
+        "targetText": "14% معاملات میں، COVID-19 ایک شدید بیماری میں تبدیل ہوجاتا ہے جس کے لئے ہسپتال میں داخلہ ضروری ہوتا ہے جبکہ 6% معاملات میں مریضوں کو شدید بیماری کا سامنا کرنا پڑتا ہے جس کے لئے انتہائی نگہداشت کی ضرورت ہوتی ہے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 6,
+        "documentDomain": "newstest2019",
+        "sourceURL": "reuters.218861",
+        "targetURL": "reuters.218861",
+        "itemID": 7,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende.tsv::750.752.754.761.765",
+        "sourceText": "The mortality rate of patients admitted to the hospital due to COVID-19 is approximately 4%.",
+        "targetID": "newstest2019-ende.tsv::6.8.10.17.21",
+        "targetText": "ہسپتال میں داخل مریضوں کی کوویڈ-19 کی وجہ سے اموات کی شرح 4 فیصد ہے۔"
+      },
+      {
+        "_block": -1,
+        "_item": 7,
+        "documentDomain": "TestDomain",
+        "sourceURL": "TestDocC",
+        "targetURL": "TestDocC",
+        "itemID": 8,
+        "itemType": "REF",
+        "sourceID": "test-ende-srcref.tsv::30.36.37.40.43",
+        "sourceText": "In this study, we will assess the trends in the overall spread of COVID-19 in every country of the European Union/European Economic Area (EU/EEA) and the United Kingdom (UK), and compare them with the province of Hubei in China.",
+        "targetID": "test-ende-srcref.tsv::0.6.7.10.13",
+        "targetText": "اس تحقیق میں، ہم ہر یورپی یونین/یورپی اقتصادی علاقہ (EU/EEA) ملک اور برطانیہ (UK) میں COVID-19 کے مجموعی پھیلاؤ کے رجحانات کا جائزہ لیں گے اور انہیں چین کے ہوبئی صوبہ کے ساتھ موازنہ کریں گے۔"
+      }
+    ],
+    "task": {
+      "batchNo": 2,
+      "batchSize": 8,
+      "randomSeed": 1111,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "urd"
+    }
+  }
+]

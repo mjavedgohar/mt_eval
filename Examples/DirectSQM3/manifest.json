@@ -1,0 +1,14 @@
+{
+    "CAMPAIGN_URL": "http://172.16.7.94:8000/dashboard/sso/",
+    "CAMPAIGN_NAME": "urdusqm2",
+    "CAMPAIGN_KEY": "u1",
+    "CAMPAIGN_NO": 7,
+    "REDUNDANCY": 1,
+
+    "TASKS_TO_ANNOTATORS": [
+        ["urd", "eng", "uniform",  1, 1]
+    ],
+
+    "TASK_TYPE": "Direct",
+    "TASK_OPTIONS": "SQM"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "items": [
+      {
+        "_block": 0,
+        "_item": 0,
+        "itemID": 68,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "We are very pleased to find #Guerreros in Air ...",
+        "targetID": "newstest2019.Microsoft-WMT19-sentence-level.6785.en-de.txt",
+        "targetText": "Estamos encantados de encontrar #Warriors en Arabia Saudita"
+      },
+      {
+        "_block": 0,
+        "_item": 1,
+        "itemID": 61,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "Yes!!!Ministry of the People's Power for Defense",
+        "targetID": "newstest2019.Microsoft-WMT19-sentence_document.6974.en-de.txt",
+        "targetText": "Ministerio del Poder Popular para la Defensa"
+      },
+      {
+        "_block": 0,
+        "_item": 2,
+        "itemID": 36,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "The #PRENSA Rep. Dom. is sold!",
+        "targetID": "newstest2019.Microsoft-WMT19-sentence-level.6785.en-de.txt",
+        "targetText": "La prensa de la República Dominicana está vendida, corrupta."
+      },
+      {
+        "_block": 0,
+        "_item": 3,
+        "itemID": 8,
+        "itemType": "BAD",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "UFOs in the form of cigarettes in Brazil.",
+        "targetID": "newstest2019.Microsoft-WMT19-sentence-level.6785.en-de.txt",
+        "targetText": "El cigarrillo forma UFO en Brasil."
+      },
+      {
+        "_block": 0,
+        "_item": 4,
+        "itemID": 42,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "We hope to confirm the fourth guest next week.",
+		"targetID": "newstest2019.Microsoft-WMT19-sentence-level.6785.en-de.txt",
+        "targetText": "Espero que podamos anunciar el cuarto invitado para #bloodynightcon España la próxima semana."
+      },
+      {
+        "_block": 0,
+        "_item": 5,
+        "itemID": 58,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "I love the Catalan cream.",
+        "targetID": "newstest2019.Microsoft-WMT19-sentence_document.6974.en-de.txt",
+        "targetText": "Me encanta mucho la crema catalana."
+      },
+      {
+        "_block": 9,
+        "_item": 6,
+        "itemID": 75,
+        "itemType": "TGT",
+        "sourceID": "newstest2019-ende-ref.de",
+        "sourceText": "Call your best friend after something crazy happens",
+        "targetID": "newstest2019.Microsoft-WMT19-sentence-level.6785.en-de.txt",
+        "targetText": "llamar a su mejor amigo después de que ocurra algo loco."
+      }
+    ],
+    "task": {
+      "batchNo": 1,
+      "batchSize": 3,
+      "randomSeed": 123456,
+      "requiredAnnotations": 1,
+      "sourceLanguage": "eng",
+      "targetLanguage": "spa"
+    }
+  }
+]

@@ -37,6 +37,7 @@ def _validate_campaign_data(campaign, stdout=None):
     """Validates campaign data batches."""
     validated_batches = 0
     batches_to_check = campaign.batches.filter(dataValid=False, dataReady=False)
+    print(f"Baches={len(batches_to_check)}")
     for batch in batches_to_check:
         batch_name = batch.dataFile.name
         batch_file = batch.dataFile
@@ -62,7 +63,9 @@ def _validate_campaign_data(campaign, stdout=None):
                         loads(batch_data, encoding='utf-8')
 
             else:
+                print("========1=========")
                 loads(str(batch_file.read(), encoding='utf-8'))
+                print("========2=========")
 
             batch.dataValid = True
             batch.save()

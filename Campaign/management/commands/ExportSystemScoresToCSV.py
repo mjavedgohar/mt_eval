@@ -1,6 +1,7 @@
 # pylint: disable=C0103,C0111,C0330,E1101
 import csv
 import sys
+import pandas as pd
 
 from django.core.management.base import BaseCommand
 from django.core.management.base import CommandError
@@ -58,6 +59,13 @@ class Command(BaseCommand):
                     add_batch_info=options['batch_info'],
                 )
                 system_scores.extend(_scores)
-
+        selected_result=[]
+        selected_result.append(['annotator_id','targetID','itemID','itemType','sourceLanguage','sourceLanguage','score','start_time','end_time'])
         for system_score in system_scores:
+            #print(system_score)
+            selected_result.append(system_score)
             csv_writer.writerow([str(x) for x in system_score])
+        
+        result_path="C:\\Users\\muhammad.javed\\Documents\\mcri\\MultiLingual Models Translation Compariosn\\Evaluation\\Appraise_mannual_annotation_tool\\new\\Appraise\\Examples\\"
+        result_df=pd.DataFrame(selected_result)
+        result_df.to_csv(result_path+str(campaign.id)+"_results.csv", index=False)

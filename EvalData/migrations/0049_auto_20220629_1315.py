@@ -8,7 +8,7 @@ class Migration(migrations.Migration):
     dependencies = [
         (
             'EvalData',
-            '0048_pairwiseassessmentdocumentresult_pairwiseassessmentdocumenttask_textsegmentwithtwotargetswithcontext',
+            '0048_pairwiseassessmentdocumentresult_pairwiseassessmentdocumenttask',
         ),
     ]
 

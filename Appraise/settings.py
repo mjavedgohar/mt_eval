@@ -35,7 +35,8 @@ if SECRET_KEY == _SECRET_KEY_DEFAULT:
         'Using the default SECRET_KEY value! Set and export APPRAISE_SECRET_KEY envvar instead'
     )
 
-ALLOWED_HOSTS = os.environ.get('APPRAISE_ALLOWED_HOSTS', '127.0.0.1').split(',')
+#ALLOWED_HOSTS = os.environ.get('APPRAISE_ALLOWED_HOSTS',  '172.16.7.94').split(',')
+ALLOWED_HOSTS = ["*"]
 
 WSGI_APPLICATION = os.environ.get(
     'APPRAISE_WSGI_APPLICATION', 'Appraise.wsgi.application'
@@ -193,6 +194,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATICFILES_DIR=[
+    os.path.join(BASE_DIR, 'static')
+]
 
 # TODO: This is a temporary hack for running Appraise locally for regression
 # testing and development as WhiteNoise staticfiles app does not work.
@@ -213,7 +217,7 @@ BASE_CONTEXT = {
 
 if DEBUG:
     INTERNAL_IPS = [
-        '127.0.0.1',
+        '127.0.0.1','192.168.1.12'
     ]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
